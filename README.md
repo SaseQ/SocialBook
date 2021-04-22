@@ -22,4 +22,5 @@ spring.jpa.hibernate.ddl-auto=
   <li>Thymeleaf 2.4.4</li>
   <li>MySQL Connector 8.0.23</li>
   <li>Spring Boot Starter Mail 2.4.4</li>
+  <li>Bootstrap v5.0.0</li>
 </ul>
