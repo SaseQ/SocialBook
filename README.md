@@ -1,6 +1,6 @@
 # SocialBook
 ## General
-SocialBook - social service
+SocialBook - social networking  service
 
 ## Properties
 ```
