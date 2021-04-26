@@ -2,6 +2,8 @@
 ## General
 SocialBook - social networking  service
 
+Live SocialBook demo: (comming soon)
+
 ## Properties
 ```
 spring.datasource.url=
