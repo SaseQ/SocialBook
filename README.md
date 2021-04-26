@@ -20,7 +20,7 @@ spring.jpa.hibernate.ddl-auto=
   <li>Confirmation of email registration</li>
   <li>Adding a new post</li>
   <li>Sorting posts by categories</li>
-  <li>Searching for posts by title</li>
+  <li>Searching posts by title</li>
   <li>Post like system</li>
   <li>Editing of bio by the profile owner</li>
   <li>Searching users by username</li>
