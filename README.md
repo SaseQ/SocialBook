@@ -11,6 +11,32 @@ spring.datasource.driver-class-name=
 spring.jpa.hibernate.ddl-auto=
 ```
 
+## Implemented
+<ul>
+  <li>Sing-in system</li>
+  <li>Sing-up system</li>
+  <li>Confirmation of email registration</li>
+  <li>Adding a new post</li>
+  <li>Sorting posts by categories</li>
+  <li>Searching for posts by title</li>
+  <li>Post like system</li>
+  <li>Editing of bio by the profile owner</li>
+  <li>Searching users by username</li>
+  <li>Viewing other users profiles</li>
+</ul>
+
+## In Development
+<ul>
+  <li>Post comment system</li>
+  <li>Editing a created post</li>
+</ul>
+
+## Future
+<ul>
+  <li>Chat between users</li>
+  <li>Friends system</li>
+</ul>
+
 ## Technologies
 <ul>
   <li>Java 8</li>
